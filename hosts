@@ -3,51 +3,7 @@
 # Last updated: 2024-07-08 00:17:35 (UTC)                      #
 ################################################################
 
-# TikTok - AdGuard DNS format (use in AdGuard DNS / DNS filter settings)
-||tiktok.com^
-||tiktokv.com^
-||tiktokcdn.com^
-||tiktokcdn-eu.com^
-||tiktokcdn-us.com^
-||tiktokin.com^
-||muscdn.com^
-||musically.ly^
-||snssdk.com^
-||sgsnssdk.com^
-||isnssdk.com^
-||ttapis.com^
-||ttwstatic.com^
-||ttlivecdn.com^
-||ttoversea.net^
-||tlivecdn.com^
-||ttdns2.com^
-||ttstatic.com^
-||byteoversea.com^
-||byteoversea.net^
-||tiktok.org^
-||tiktokw.us^
-||tiktokw.eu^
-||tiktokv.eu^
-||tiktokv.us^
-||tiktokd.org^
-||tiktokglobalshop.com^
-||tiktokglobalshopv.com^
-||tiktokmusic.app^
-||tiktokstaticb.com^
-||bytedance.com^
-||pstatp.com^
-||ipstatp.com^
-||ibytedtos.com^
-||ibyteimg.com^
-||byteimg.com^
-||bytetcdn.com^
-||byteglb.com^
-||byteintl.com^
-||byteintlapi.com^
-||amemv.com^
-||toutiao.com^
-||toutiao50.com^
-||resso.app^
+# TikTok - Base domains
 
 # TikTok - hosts format (fallback)
 127.0.0.1 tiktok.com
